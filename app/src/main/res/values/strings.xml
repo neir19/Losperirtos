@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Perritos</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Menu">Menu</string>
+    <string name="Ubicación">Ubicacion</string>
+    <string name="menu">Menu</string>
+    <string name="locales">Locales</string>
+    <string name="nombre">nombre</string>
+    <string name="Localess">Locales</string>
+    <string name="Men">Menú</string>
+    <string name="Ubicacion">UBICACIÓN</string>
+    <string name="LosPerritos">Los Perritos</string>
+
+</resources>
